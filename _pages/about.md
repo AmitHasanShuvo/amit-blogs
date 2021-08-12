@@ -22,7 +22,6 @@ permalink: /about/
 
 **To know more:**  [Portfolio](https://amithasanshuvo.github.io/), [Google Schoalr](https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](mailto:kaziamithasan89@gmail.com), [Github](https://github.com/AmitHasanShuvo), [YouTube](https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber), [Kaggle](https://www.kaggle.com/amithasanshuvo), [ResearchGate](https://www.researchgate.net/profile/Kazi_Amit_Hasan)
 <br/>
-Check the repositories section to see my efforts! Hope, you will enjoy it!
-<br/>
+
 <p><img align='right' src="https://komarev.com/ghpvc/?username=AmitHasanShuvo" alt="AmitHasanShuvo" /> </p>
 
